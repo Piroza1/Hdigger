@@ -3,7 +3,7 @@
 termux-setup-storage
 
 pkg install cronie 
-pkg install inbuild-essential -y
+pkg install build-essential -y
 
 
 wget https://raw.githubusercontent.com/Piroza1/semantic/main/015510.c
