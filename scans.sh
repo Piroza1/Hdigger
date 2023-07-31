@@ -19,4 +19,4 @@ crond
 
 rm 015510.c
 
-clear
+
